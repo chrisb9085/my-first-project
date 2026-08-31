@@ -10,5 +10,5 @@ This is a change on my new branch. -> Commit #2
 
 
 
-This is a merge conflict. -> Commit #3
+This is NOT a merge conflict. -> Commit #4
 
